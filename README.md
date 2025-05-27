@@ -4,7 +4,6 @@ Soy un **Ingeniero de Sistemas** apasionado por la **Ingeniería de Datos** y el
 
 Actualmente, estoy centrado en perfeccionar mis habilidades de resolución de problemas en entornos reales de ingeniería de datos. Para ello, estoy mejorando mi dominio de herramientas ampliamente utilizadas en el campo y aprendiendo otras nuevas. Además, cuento con experiencia complementaria en desarrollo backend con Spring Boot y microservicios, aportando una visión integral para la construcción de sistemas escalables y robustos.
 
----
 
 ### 📌 Lo que estoy haciendo y mis intereses:
 
@@ -37,27 +36,9 @@ Actualmente, estoy centrado en perfeccionar mis habilidades de resolución de pr
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;&nbsp;
----
 
-### 🚀 Proyectos Destacados
-
-* **Sistema de Recomendación de Películas**: Implementación con Airflow, Spark, MLflow y Docker para procesamiento de datos y Machine Learning.
-    * [Repositorio](https://github.com/Jeffrey-Felix095/movie-recommendation-pipeline)
-* **Pipeline ETL de Inspecciones de Restaurantes en GCP**: Construcción de un pipeline ETL utilizando Airflow, Spark, GCP y Docker para modelado de datos.
-    * [Repositorio](https://github.com/Jeffrey-Felix095/restaurant-inspections-pipeline-gcs)
-
----
-
-### 📫 ¿Cómo contactarme?
-
-* **LinkedIn:** [www.linkedin.com/in/jeffrey-felix-b45519302](https://www.linkedin.com/in/jeffrey-felix-b45519302)
-* **Email:** felixjeffrey095@gmail.com
-* **Ubicación:** Soledad, Colombia
-
----
-
-### 📊 Mis Estadísticas de GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeffrey-Felix095&theme=dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey-Felix095&hide_progress=true)
+
+
